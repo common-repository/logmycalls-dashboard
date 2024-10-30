@@ -1,0 +1,95 @@
+//Css for LogMyCalls Integration
+
+
+#logmycallsinteg_dashboard_widget .table_content, #logmycallsinteg_dashboard_widget .table_discussion {
+	border-top-color: #ececec;
+}
+
+#logmycallsinteg_dashboard_widget .inside {
+	font-size: 12px;
+	padding-top: 20px;
+}
+
+#logmycallsinteg_dashboard_widget .table {
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+#logmycallsinteg_dashboard_widget p.sub {
+	padding: 5px 0 15px;
+	color: #8f8f8f;
+	font-size: 14px;
+	position: absolute;
+	top: -42px;
+}
+
+#logmycallsinteg_dashboard_widget td.b a {
+	font-size: 18px;
+}
+
+#logmycallsinteg_dashboard_widget td.first {
+	width:80px;
+}
+
+#logmycallsinteg_dashboard_widget .table_discussion {
+	float: right;
+	border-top-width: 1px;
+	border-top-style: solid;
+	width: 45%;
+}
+
+#logmycallsinteg_dashboard_widget .table_discussion {
+	border-top-color: #ececec;
+	float: right;
+	border-top-width: 1px;
+	border-top-style: solid;
+	width: 45%;
+}
+
+#logmycallsinteg_dashboard_widget .table_content {
+	float: left;
+	border-top-width: 1px;
+	border-top-style: solid;
+	width: 45%;
+}
+
+#logmycallsinteg_dashboard_widget .table_content, #logmycallsinteg_dashboard_widget .table_discussion {
+	border-top-color: #ececec;
+}
+
+
+#logmycallsinteg_dashboard_widget .t {
+	font-size: 12px;
+	padding-right: 12px;
+	padding-top: 6px;
+	color: #777;
+}
+
+#logmycallsinteg_dashboard_widget .t span {
+	bottom: 2px;
+	position: relative;
+}
+
+#logmycallsinteg_dashboard_widget td.b{
+	font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	font-size:16px;
+	color:#555;
+}
+
+.postbox .inside {
+	margin: 10px 0;
+	position: relative;
+}
+
+.postbox .inside, .stuffbox .inside {
+	padding: 0 12px 0 10px;
+	line-height: 1.4em;
+}
+
+.lmcerror {
+
+border:2px solid red;
+padding:10px;
+color:red;
+}
